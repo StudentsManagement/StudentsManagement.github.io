@@ -59,8 +59,6 @@ body {
     cursor: pointer;
     position: relative;
     text-decoration: none;
-    border:2px solid;
-    border-radius:25px;
 }
 
 #download a.button div {
