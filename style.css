@@ -66,6 +66,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
+    -moz-border-radius:25px;
 }
 
 #download a.button:hover div {
