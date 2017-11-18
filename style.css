@@ -41,6 +41,8 @@ body {
 
 #download {
     margin-top: 40px;
+    border:2px solid;
+border-radius:25px;
 }
 
 #download a.button {
@@ -56,7 +58,8 @@ body {
     cursor: pointer;
     position: relative;
     text-decoration: none;
-    border-radius:5px
+    border:2px solid;
+border-radius:25px;
 }
 
 #download a.button div {
@@ -67,7 +70,6 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    -moz-border-radius:25px;
 }
 
 #download a.button:hover div {
@@ -100,5 +102,4 @@ body {
     zoom: 2;
     margin-left: 3px;
     margin-right: 3px;
-    border-radius:5px
 }
