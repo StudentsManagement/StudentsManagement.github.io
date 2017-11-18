@@ -42,7 +42,7 @@ body {
 #download {
     margin-top: 40px;
     border:2px solid;
-border-radius:25px;
+    border-radius:25px;
 }
 
 #download a.button {
@@ -59,7 +59,8 @@ border-radius:25px;
     position: relative;
     text-decoration: none;
     border:2px solid;
-border-radius:25px;
+    border-radius:25px;
+    box-shadow: 10px 10px 5px #888888;
 }
 
 #download a.button div {
