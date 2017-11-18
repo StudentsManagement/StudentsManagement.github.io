@@ -56,7 +56,7 @@ body {
     cursor: pointer;
     position: relative;
     text-decoration: none;
-    box-shadow: 10px 10px 5px #888888;
+    border-radius:5px 0;
 }
 
 #download a.button div {
